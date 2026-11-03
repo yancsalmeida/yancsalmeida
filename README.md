@@ -1,15 +1,15 @@
 # Yan Almeida
 
-**Software Development (`C# / .NET` · `C` · `Python`) · BSc in Chemical Engineering (`BME`)**  
+**Software Development (`C# / .NET` · `C` · `Python`) · Chemical Engineer**  
 [LinkedIn](https://www.linkedin.com/in/yancsalmeida/) · [yancsalmeida@gmail.com](mailto:yancsalmeida@gmail.com)
 
 ---
 
 ### About Me
 
-Chemical Engineer (**BSc from Budapest University of Technology and Economics — BME**, taught in English; Technical Diploma from **IFRJ**) transitioning into **Software Engineering** through the **CTeSP in Information Systems Technologies and Programming (TPSI)** at **ISPGAYA** (Porto, Portugal).
+Chemical Engineer transitioning into **Software Engineering**, combining a strong foundation in mathematical modeling and process simulation with clean software architecture.
 
-Focused on backend development in **.NET / C#**, low-level systems programming in **C**, algorithms, data structures, and relational databases — combining mathematical and process-engineering rigor with clean software architecture.
+Focused on backend development in **C# / .NET**, low-level systems programming in **C**, data structures, algorithms, and relational databases.
 
 ---
 
@@ -31,6 +31,6 @@ Focused on backend development in **.NET / C#**, low-level systems programming i
 
 ### Education
 
-- **CTeSP in Information Systems Technologies and Programming (TPSI)** — *ISPGAYA (Vila Nova de Gaia / Porto, Portugal)* *(In progress)*
+- **CTeSP in Information Systems Technologies and Programming (TPSI)** — *ISPGAYA (Porto, Portugal)* *(In progress)*
 - **BSc in Chemical Engineering** — *Budapest University of Technology and Economics (BME, Hungary)* *(Taught in English)*
 - **Technical Diploma in Chemistry** — *Federal Institute of Rio de Janeiro (IFRJ, Brazil)*
