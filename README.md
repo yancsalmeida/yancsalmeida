@@ -1,7 +1,7 @@
 # Yan Almeida
 
-**Software Development (`C` · `C# / .NET` · `Python`) · BSc in Chemical Engineering (`BME`)**  
-📍 Porto Metropolitan Area, Portugal · [LinkedIn](https://www.linkedin.com/in/yan-almeida-66940a381/) · [yancsalmeida@gmail.com](mailto:yancsalmeida@gmail.com)
+**Software Development (`C# / .NET` · `C` · `Python`) · BSc in Chemical Engineering (`BME`)**  
+[LinkedIn](https://www.linkedin.com/in/yancsalmeida/) · [yancsalmeida@gmail.com](mailto:yancsalmeida@gmail.com)
 
 ---
 
@@ -9,15 +9,23 @@
 
 Chemical Engineer (**BSc from Budapest University of Technology and Economics — BME**, taught in English; Technical Diploma from **IFRJ**) transitioning into **Software Engineering** through the **CTeSP in Information Systems Technologies and Programming (TPSI)** at **ISPGAYA** (Porto, Portugal).
 
-Focused on building a strong foundation in low-level programming, algorithms, data structures, computer architecture, and backend development, combining analytical rigor from engineering with practical software design.
+Focused on backend development in **.NET / C#**, low-level systems programming in **C**, algorithms, data structures, and relational databases — combining mathematical and process-engineering rigor with clean software architecture.
 
 ---
 
-### Technical Stack & Focus
+### Featured Projects
 
-- **Languages:** `C`, `C# (.NET)`, `Python`, `SQL`, `Bash`
-- **Computer Science Foundations:** Algorithms & Data Structures, Computer Architecture, Low-Level Memory Management, Relational Databases
-- **Tools & Environment:** Linux (Ubuntu), Git & GitHub, Automation & Scripting
+- **[`ChemFlow.NET`](https://github.com/yancsalmeida/ChemFlow.NET)** — Modular steady-state chemical process and thermodynamic simulation engine built with **C# 12 / .NET 8** and **Clean Architecture**. Implements Antoine vapor pressure correlations, Raoult's Law VLE, a safeguarded Newton-Raphson **Rachford-Rice** isothermal flash solver, unit operations (`Mixer`, `HeaterCooler`, `FlashDrum`, `ConversionReactor`), **Kahn's topological sort** for DAG flowsheet execution, **SQLite (`ADO.NET`)** persistence, and automated **`xUnit`** tests.
+- **[`cs-fundamentals`](https://github.com/yancsalmeida/cs-fundamentals)** — Low-level systems programming laboratories in **C11 (`gcc`)** on Linux `x86_64`, inspecting stack/heap virtual memory layout, pointer arithmetic, and process memory segments.
+
+---
+
+### Technical Stack
+
+- **Languages:** `C# (.NET 8)`, `C (C11)`, `Python`, `SQL`, `Bash`
+- **Backend, Data & Testing:** Clean Architecture, `ADO.NET` / `SQLite`, `xUnit`, REST APIs (`ASP.NET Core`)
+- **Computer Science Foundations:** Algorithms & Data Structures (Graphs, Topological Sort, Root-Finding Numerical Methods), Computer Architecture, Low-Level Memory Management
+- **Environment & Tooling:** Linux (Ubuntu), Git & GitHub
 
 ---
 
