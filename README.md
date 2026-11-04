@@ -20,7 +20,7 @@ Focused on backend development in **C# / .NET**, low-level systems programming i
 - **Languages:** `C# (.NET 8)`, `C (C11)`, `Python 3 (Asyncio)`, `SQL`, `Bash`
 - **Backend, Data & Testing:** `ASP.NET Core Minimal APIs`, `FastAPI`, Clean Architecture, `ADO.NET` / `aiosqlite` / `SQLite`, WebSockets, `xUnit`, `pytest`, OpenAPI / Swagger
 - **Computer Science Foundations:** Algorithms & Data Structures (Graphs, Topological Sort, Numerical Methods), Event-Driven Asynchronous Systems, Low-Level Memory Management
-- **Environment & Tooling:** Linux (Ubuntu), Git & GitHub, GitHub Actions (CI), `uv`
+- **Environment & Tooling:** Linux (Ubuntu), Docker & Docker Compose, Git & GitHub, GitHub Actions (CI), `uv`
 
 ---
 
