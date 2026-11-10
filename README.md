@@ -4,6 +4,10 @@ Chemical Engineer transitioning into **Software Engineering**, combining a stron
 
 Focused on backend development in **C# / .NET**, low-level systems programming in **C**, algorithmic modeling in **Python**, and relational databases.
 
+🌐 **Live Portfolio & Systems Showcase:** [yancsalmeida.github.io](https://yancsalmeida.github.io/)  
+📄 **Formal Resumes:** [Download CV (English PDF)](https://yancsalmeida.github.io/cv/CV_Yan_Almeida_Software_Engineer_EN.pdf) · [Descarregar CV (Português PDF)](https://yancsalmeida.github.io/cv/CV_Yan_Almeida_Software_Engineer_PT.pdf)  
+⚡ **Total Automated Test Suite:** **187 / 187 tests passing** across 5 repositories in CI/CD.
+
 ---
 
 ### Featured Projects
